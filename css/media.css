@@ -107,7 +107,7 @@
     }
 
     .about .feature .feature-img {
-        right: -100px;
+        right: -120px !important;
         /* bottom: 6\0px; */
     }
 
@@ -278,6 +278,14 @@
     .about .features .feature {
         padding: 195px 230px 140px 90px;
     }
+
+    .about .feature .feature-img {
+  width: auto;
+  position: absolute;
+  right: -100px;
+  bottom: 5px;
+}
+
 
     .about .features .feature h4 {
         margin-bottom: 0;

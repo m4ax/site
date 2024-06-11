@@ -66,9 +66,7 @@
         font-size: 22px;
     }
     
-    .artist-wrapper .artist-img {
-        right: -100px;
-    }
+
     .banner .banner-content {
         padding-left: calc((100vw - 1110px) / 2);
     }
@@ -135,6 +133,27 @@
     .artist-wrapper {
         padding-right: 47%;
     }
+    .artist-wrapper .artist-img {
+        right: -100px;
+    }
+    /*artist-section*/
+    .artist-wrapper .artist-img {
+        right: -100px;
+    }
+
+    .artist-wrapper img.artist-img {
+        width: 50%;
+    }
+
+    .artist-wrapper {
+        padding: 50px 65px 45px;
+        padding-right: 46%;
+    }
+
+    .artist-wrapper p {
+        line-height: 32px;
+    }
+    
 
     /* faq question*/
     .faq-section {

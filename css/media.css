@@ -188,6 +188,14 @@
         width: 40%;
     }
 }
+@media screen and (max-width: 2000px) {
+    .about .feature .feature-img {
+  width: auto;
+  position: absolute;
+  right: -120px;
+  bottom: 5px;
+}
+}
 
 @media screen and (max-width: 1199px) {
     header {
@@ -282,7 +290,7 @@
     .about .feature .feature-img {
   width: auto;
   position: absolute;
-  right: -100px;
+  right: -120px;
   bottom: 5px;
 }
 

@@ -65,7 +65,10 @@
     body {
         font-size: 22px;
     }
-
+    
+    .artist-wrapper .artist-img {
+        right: -100px;
+    }
     .banner .banner-content {
         padding-left: calc((100vw - 1110px) / 2);
     }

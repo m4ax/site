@@ -642,11 +642,11 @@
 
     .phase-list>li:nth-child(2) .phase-img-box .phase-art-img {
         bottom: -34px;
-        right: 70px;
+        right: -40px;
     }
 
     .phase-list>li:nth-child(3) .phase-img-box .phase-art-img {
-        left: -19px;
+        left: -40px;
         top: -31px;
     }
 

@@ -144,6 +144,9 @@ h6 {
   color: #f77b21;
   border: 1px solid #f77b21;
 }
+.pad {
+  padding-top:100px;
+}
 
 .btn:focus {
   transform: translate(4px, 4px);
@@ -928,6 +931,7 @@ header .nav-menu {
   background-color: #f9e9dc;
 }
 
+
 .phase-list>li:nth-child(2) .phase-img-box .phase-art-img {
   right: 125px;
 }
@@ -943,7 +947,7 @@ header .nav-menu {
 
 .phase-list>li:nth-child(3) .phase-img-box .phase-art-img {
   top: -60px;
-  left: -60px;
+  /* left: -60px; */
   right: auto;
 }
 
